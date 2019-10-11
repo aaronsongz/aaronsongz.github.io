@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Aaron Ernst Resume</title>
+</head>
+<body>  
+  <h1>Aaron A Ernst</h1>
+    <p>7269 146th Way West, Apple Valley, MN 55124<br>Cell:239-222-7864 aaronaernst@gmail.com</p>
+  <h2>Relevant Experience</h2>
+  <h3><u>Computer Skills</u></h3>
+    <ul>
+      <li>Skilled in basic database elements and design, database maintnace and security in Access</li>
+      <li>Knowledgeable in creating maintenance datavases, entering and manipulating data
+        <li>Able to enter text and formulas, moving data, formatting worksheet appearance, and manipulating charts in an Excel spreadsheet; Can work with records and ranges, sort records, outline and filter lists, and import and exports data</li>
+      <li>Good understanding of formulas and functions, working with columns and rows, using absolute references, and printing worksheets; Can use data analysis tools and able to merge link workbooks</li>
+      <li>Possess the basic skills to create and edit text-based documents, and able to enhance the look and functionality</li>
+      <li>Able to maximize Microsoft Word based on the type of work needed to be completed such as customizing toolbars, menus, automating tasks, formatting one part of a document differently than another</li>
+      <li>Skilled in formatting paragraphs by using indents, line spacing, and tab stops and dividing documents into sections<li>
+      <li>Able to use templates, create tables, and prepare PowerPoint presentations using Microsoft Office Programs</li>
+      <li>Can maintain computer networks and related computing environments including computer hardware, systems software, applications software, and all configurations</li>
+      <li>Ablilty to perform data backups and disaster recovery operations</li>
+      <li>Knowledgeable in diagnosing, troubleshooting, and resolving hardware, software, or network and system problems, and replace defective components when necessary</li>
+      <li>Experienced in designing, configuring, and testing computer hardware, networking software and operating systems</li>
+      <li>Demostrated ability to monitor network performance to determine whether adjustments need to be made, and to determine where changes will need to be made in the future</li>
+  </ul>
+  <h3><u>Management</u></h3>
+    <ul>
+      <li>Conferred with company officials to develop methods and procedures to increase sales, exand markets, and promotion</li>
+      <li>Listened to and resolved customer complaints regarding services, products, or personnel</li>
+      <li>Provided staff with assistance in performing difficult or complicated duties</li>
+      <li>Monitored staff performance to ensure that goals are met and completed the scheduling, interviewing and hiring</li>
+      <li>Formulated pricing policies on merchandise according to profitability requirments</li>
+      <li>Developed a business plan and campaign strategy design for company</li>
+      <li>Designed publication advertisements</li>
+      <li>Used Adobe Creative Suite program to create designs and documents</li>
+      <li>Created materials for sales and presentations and delivered presentations</li>
+  </ul>
+  <h3><u>Employment Experience</u></h3>
+  <p>Marketing Director  2016-2017<br>Manley Brothers Development, Apple Valley, MN</p> 
+  <p>Marketing/Sales Director 2013-2015<br>Blue Skies, Minnetonka, MN</p>
+  <p>Promotional Strategy Consultant 2008-2012<br>Premier Consultants, Minneapolis, MN</p>
+  <p>General Manager 2005-2008<br>Karma Entertainment LLC., Minneapolis, MN</p>
+  <h3><u>Education/Training</u></h3>
+  <P>A+ Preparation Certificate Training<br>Century College, White Bear Lake, MN</P>
+  <p>Microsoft Office Support Certificate<br>Century College, White Bear Lake, MN</p>
+  <p>Help Desk Certificate<br>Century College, White Bear Lake, MN</p>
 
+</body>
+</html>
